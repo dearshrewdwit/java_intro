@@ -19,7 +19,6 @@ In most compiled languages, the file containing the resulting low-level code is 
 
 **The Java Development Kit (JDK):** A software development environment used for developing Java applications and applets. It includes the Java Runtime Environment (JRE), an interpreter/loader (java), a compiler (javac), an archiver (jar), a documentation generator (javadoc) and other tools needed in Java development.
 
+**JAR:** A Java Archive, or JAR file, contains all of the various components that make up a self-contained, executable Java application, deployable Java applet or, most commonly, a Java library to which any Java Runtime Environment can link. Java applications and libraries can contain hundreds of different files, including compiled Java source code, a manifest file, XML-based configuration data, JSON-based data files, images, sound clips and even security certificates. A JAR file is simply an aggregation of all of these resources into a single, compressed file.
+
 **Java Virtual Machine (JVM):** An abstraction layer between a Java application and the underlying platform. As the name implies, the JVM acts as a “virtual” machine or processor. To the bytecodes comprising the program, they are communicating with a physical machine; however, they are actually interacting with the JVM.
-
-
-http://www.cs.cmu.edu/~jcarroll/15-100-s05/supps/basics/history.html
