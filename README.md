@@ -33,4 +33,4 @@ https://monster-cat.herokuapp.com/workshops
 
 # Let's [start][1]!
 
-[1]: ../master/Chapter0-What_is_Java?/README.md
+[1]: ../master/chapter0-What_is_Java?/README.md
