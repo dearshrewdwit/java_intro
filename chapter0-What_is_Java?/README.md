@@ -2,9 +2,10 @@
 
 ## Learning objectives
 
-1. How a compiled language works
-2. The difference between a compiled and interpreted language
-3. Advantages and disadvantages of both
+0. The difference between a compiled and interpreted language
+1. The difference between a statically typed and a dynamically typed language
+2. How we should think about languages at the moment
+3. How your machine runs Java
 
 ### Let's do some java.
 
@@ -23,13 +24,33 @@ What are we being asked to install? What is the Java runtime?
 
 More to the point - what is Java and how does it work?
 
+```
+The bigger polemic in languages today is probably whether they are statically or dynamically typed.
+Which is to say not how fast will they run, but will the errors be found by the compiler beforehand (at the cost of the programmer having to specify pretty complex typing information) or will the errors come up in testing and production.
+```
+
 ## Instructions
 
-### To complete this challenge, you will need to
+### To complete this challenge, you will need to research and write down your findings about:
 
-- [ ] write out the steps needed for a compiled language to run
-- [ ] write out the steps needed for an interpreted language to run
-- [ ] give an advantage and disadvantage
+- [ ] The differences between a compiled and interpreted language
+- [ ] The differences between a dynamically and statically typed language.
+- [ ] How most languages run today
+- [ ] How Java code will run on your machine
 
 
-PS: if the dialog box disappears, just click [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) to go do the download page
+### resources
+
+[Oracle Docs: Dynamic vs static types][1]
+
+[thesocietea.org: compiled and interpreted languages][2]
+
+[stackoverflow: compiled vs interpreted languages][3]
+
+[cmu: Brief Overview of Java][4]
+
+
+[1]: https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html
+[2]:https://thesocietea.org/2015/07/programming-concepts-compiled-and-interpreted-languages/
+[3]: https://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages
+[4]: http://www.cs.cmu.edu/~jcarroll/15-100-s05/supps/basics/history.html

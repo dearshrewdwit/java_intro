@@ -15,6 +15,7 @@ First things first. Clone this repository so you can follow along!
 - Fizzbuzz
 
   _bonus stuff_
+- random links to interesting things
 - Fizzbuzz TDD
 - A small web app
 
@@ -32,4 +33,4 @@ https://monster-cat.herokuapp.com/workshops
 
 # Let's [start][1]!
 
-[1]: ../master/Section0-Setup/README.md
+[1]: ../master/Chapter0-What_is_Java?/README.md
