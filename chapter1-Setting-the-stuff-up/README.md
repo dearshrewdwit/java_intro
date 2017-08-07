@@ -18,7 +18,7 @@ PS: if the dialog box disappears, just click [here](http://www.oracle.com/techne
 
 ## Instructions
 
-### To complete this challenge, you will need to research and write down your findings about:
+### To complete this challenge, you will need to:
 
 - [ ] Install the JDK (JDK 8u144)
 - [ ] ensure the installation is complete by running `java -version` without error
@@ -36,7 +36,7 @@ PS: if the dialog box disappears, just click [here](http://www.oracle.com/techne
 
 
 ## All done?! NICE! :tada:
-Reflect on this exercise, and then keep on moving -> [chapter2][1]
+Reflect on this exercise, check out the `bonus.md` and then keep on moving -> [chapter2][1]
 
 [1]: ../chapter2-Javabuzz/README.md
 [2]: http://introcs.cs.princeton.edu/java/11hello/HelloWorld.java.html
