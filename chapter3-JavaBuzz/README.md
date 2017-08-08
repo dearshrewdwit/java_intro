@@ -1,4 +1,4 @@
-# Chapter2-Datatypes
+# chapter3-JavaBuzz
 
 ## Learning Objectives
 

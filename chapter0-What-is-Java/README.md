@@ -1,4 +1,4 @@
-# Chapter0-What_is_Java
+# Chapter0-What-is-Java
 
 ```
 The bigger polemic in languages today is probably whether they are statically or dynamically typed.
