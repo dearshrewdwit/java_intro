@@ -38,6 +38,6 @@ PS: if the dialog box disappears, just click [here](http://www.oracle.com/techne
 ## All done?! NICE! :tada:
 Reflect on this exercise, check out the `bonus.md` and then keep on moving -> [chapter2][1]
 
-[1]: ../chapter2-Javabuzz/README.md
+[1]: ../chapter2-DataTypes/README.md
 [2]: http://introcs.cs.princeton.edu/java/11hello/HelloWorld.java.html
 [3]: http://www.learnjavaonline.org/en/Hello%2C_World%21

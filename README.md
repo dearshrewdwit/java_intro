@@ -5,22 +5,22 @@ First things first. Clone this repository so you can follow along!
 - A high-level understanding of how different languages work
 - De-mystify what a compiled language is
 - How to set up your environment for Java
-- How to create, compile and run your first Java program.
+- Use docs and stackoverflow to learn a new language
+- How to create, compile and run Java programs
 
 ## What's in here?
-- Terminology
-- Resources
-- What is Java?
+- Terminology & Resources
+- What is Java and how does it work
 - Setup instructions
-- Fizzbuzz
-
-  _bonus stuff_
-- random links to interesting things
-- Fizzbuzz TDD
-- A small web app
+- An intro to some of Java's data types
+- An intro to loops
+- Fizzbuzz in Java
+- An intro to TDD in Java using Junit
+- _bonus:_ random links to interesting things
 
 ## What's not in here?
 - lots
+- this workshop has a fairly narrow scope
 
 
 ## Disclaimer :construction:
