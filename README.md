@@ -15,7 +15,7 @@ First things first. Clone this repository so you can follow along!
 - An intro to some of Java's data types
 - An intro to loops
 - Fizzbuzz in Java
-- An intro to TDD in Java using Junit
+- An intro to TDD in Java using JUnit
 - _bonus:_ random links to interesting things
 
 ## What's not in here?

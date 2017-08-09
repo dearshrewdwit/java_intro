@@ -1,4 +1,4 @@
-# chapter3-JavaBuzz
+# Chapter3-JavaBuzz
 
 ## Learning Objectives
 
