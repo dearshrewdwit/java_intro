@@ -48,7 +48,7 @@ Have a look back at chapter 3's code for JavaBuzz. At the moment we have 1 big m
 - [ ] How can you use `@Before` to help dry out your tests? What import do you need to add to use it?
 - [ ] Keep on going until you've written all the tests you think you need!
 
-From scratch, you've just test-driven the development of fizzbuzz in Java. In 2 hours.
+From scratch, you've just test-driven the development of fizzbuzz in Java.
 
 # CONGRATS!!
 
