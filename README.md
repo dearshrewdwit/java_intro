@@ -1,4 +1,4 @@
-# A Little Java App
+# An Intro to Java
 First things first. Clone this repository so you can follow along!
 
 ## Workshop Objectives
