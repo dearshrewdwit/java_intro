@@ -58,7 +58,7 @@ Use, if you want, the markdown files in the `/exercises` directory to store your
 Reflect on this exercise, and then keep on moving -> [chapter1][0] or if you're feeling curious check out [extra stuff](bonus.md)
 
 
-[0å]: ../chapter1-Setting-the-stuff-up/README.md
+[0]: ../chapter1-Setting-the-stuff-up/README.md
 
 
 [1]: https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html
