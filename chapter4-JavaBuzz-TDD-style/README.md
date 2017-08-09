@@ -11,15 +11,16 @@
 
 ### To complete this challenge, you will need to:
 - [ ] Use the JUnit github repo as your guide.
-- [ ] install the `.jar` (What's a jar?) that we'll use as a testing framework for Java called JUnit. You'll need the `.jar` of matchers too. Use the JUnit github repo.
+- [ ] install the `.jar` (What's a jar?) that we'll use as a testing framework for Java called JUnit. You'll need the `.jar` of matchers too.
 - [ ] make sure that you save or move the jars to the `/exercises` folder where we'll do our work at the moment
-- [ ] double check that it's working by compiling the example class, and the example test class and then running the test class. You should get no failures.
+- [ ] double check that it's working by compiling `Example.java` and `ExampleTest.java` and then running the test class. You should get no failures.
 
 *what does `-cp` mean? Run the command `java` to see what options we can pass it*
 - [ ] change the assertion to break the test, re-compile, and then run it. Investigate the stack trace to see what information you can find about the test failure.
 
 ### Good job so far!! Spend perhaps a few minutes to investigate the new things in this JUnit test.
 
+- [ ] what imports are needed?
 - [ ] investigate what the `@Test` means. How does it work? Where does it come from?
 - [ ] why are all the methods `public void`? What does it mean?
 - [ ] investigate where our assertion method comes from. What else do we have available?
@@ -36,6 +37,10 @@ Have a look back at chapter 3's code for JavaBuzz. At the moment we have 1 big m
 
 ---
 *NB: we're going to do a lot of manual work here which would be automated in an IDE like intelliJ. This is the last chapter using just an editor. So if you're feeling brave go ahead and install one already!*
+```sh
+# terminal
+> brew cask install intellij-idea
+```
 
 ---
 - [ ] prepare for Red, Green, Refactor :tada:
