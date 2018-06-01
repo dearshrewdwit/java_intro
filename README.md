@@ -1,5 +1,5 @@
 # An Intro to Java
-First things first. Clone this repository so you can follow along!
+First things first. Fork and clone this repository so you can follow along!
 
 ## Workshop Objectives
 - A high-level understanding of how different languages work
